@@ -1,0 +1,20 @@
+[
+    {
+      "label": "ReactJS",
+      "repositoryUrl": "flagship-react-sdk@master",
+      "language": "tsx",
+      "directory": "demo"
+    },
+    {
+      "label": "React-Native",
+      "repositoryUrl": "flagship-react-native-sdk@master",
+      "language": "tsx",
+      "directory": "demo"
+    },
+    {
+      "label": "Typescript",
+      "repositoryUrl": "flagship-ts-sdk@main",
+      "language": "typescript",
+      "directory": "demo"
+    }
+  ]
