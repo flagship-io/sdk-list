@@ -16,5 +16,11 @@
       "repositoryUrl": "flagship-ts-sdk@main",
       "language": "typescript",
       "directory": "demo"
+    },
+    {
+      "label": ".NET",
+      "repositoryUrl": "flagship-dotnet-sdk@main",
+      "language": "csharp",
+      "directory": "demo"
     }
   ]
