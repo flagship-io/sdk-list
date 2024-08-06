@@ -24,7 +24,7 @@
     "directory": "demo"
   },
   {
-    "label": "Typescript",
+    "label": "Javascript/TS",
     "repositoryUrl": "flagship-ts-sdk@main",
     "language": "typescript",
     "directory": "demo"
