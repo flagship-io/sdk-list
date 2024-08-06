@@ -1,26 +1,32 @@
 [
-    {
-      "label": "ReactJS",
-      "repositoryUrl": "flagship-react-sdk@master",
-      "language": "tsx",
-      "directory": "demo"
-    },
-    {
-      "label": "React-Native",
-      "repositoryUrl": "flagship-react-native-sdk@master",
-      "language": "tsx",
-      "directory": "demo"
-    },
-    {
-      "label": "Typescript",
-      "repositoryUrl": "flagship-ts-sdk@main",
-      "language": "typescript",
-      "directory": "demo"
-    },
-    {
-      "label": ".NET",
-      "repositoryUrl": "flagship-dotnet-sdk@main",
-      "language": "csharp",
-      "directory": "demo"
-    }
-  ]
+  {
+    "label": ".NET",
+    "repositoryUrl": "flagship-dotnet-sdk@main",
+    "language": "csharp",
+    "directory": "demo"
+  },
+  {
+    "label": "PHP",
+    "repositoryUrl": "flagship-php-sdk@main",
+    "language": "php",
+    "directory": "demo"
+  },
+  {
+    "label": "React-Native",
+    "repositoryUrl": "flagship-react-native-sdk@master",
+    "language": "tsx",
+    "directory": "demo"
+  },
+  {
+    "label": "ReactJS",
+    "repositoryUrl": "flagship-react-sdk@master",
+    "language": "tsx",
+    "directory": "demo"
+  },
+  {
+    "label": "Typescript",
+    "repositoryUrl": "flagship-ts-sdk@main",
+    "language": "typescript",
+    "directory": "demo"
+  }
+]
